@@ -13,8 +13,6 @@
   <img src="https://user-images.githubusercontent.com/101783823/170741632-f4407ac3-23d0-4852-bc26-12657f2eab8e.png">
 </p>
 
-#### - You can test this app <a href="https://v1ctorbarbosa.github.io/Notes/" target= "_blank"> here</a>. <br>
-
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
