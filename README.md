@@ -1,8 +1,8 @@
 # Notes <br>
 
-### - Notes is an app made with <a href="https://reactjs.org/">React</a> inspired in Google's Keep.
-### - It's a simple project made basically with <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> React Hooks</a>.
-### - You can add as many notes as you want on the main page. <br><br>
+#### - Notes is an app made with <a href="https://reactjs.org/">React</a> inspired in Google's Keep.
+#### - It's a simple project made basically with <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> React Hooks</a>.
+#### - You can add as many notes as you want on the main page. <br><br>
 
 <img src="https://user-images.githubusercontent.com/101783823/170729417-d6e5550f-a302-49eb-999f-86433b6b34cc.png"> <br><br>
 
