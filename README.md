@@ -24,9 +24,6 @@ To edit this project, you can fork it, clone down this repository or download it
 Visual Studio Code (or any text editor);
 ```
 
----
-Made with ❤️ by [Victor](https://github.com/V1ctorBarbosa) 🐶
-
 ## ⚙️ Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
@@ -46,6 +43,9 @@ To Start Server:
 To Visit App:
 
 `localhost:3000/ideas`
+
+---
+Made with ❤️ by [Victor](https://github.com/V1ctorBarbosa) 🐶
 
 
 
